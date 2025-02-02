@@ -1,5 +1,5 @@
 -- ON START
-game:GetService("StarterGui"):SetCore("SendNotification",{Title="El patron of Neighbors",Text=";)", Duration=10})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="El patron of Neighbors",Text="BY FZ.YZF ;)", Duration=10})
 
 -- LOCAL
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fz-YZF/RBLX-UI-lib/refs/heads/main/Module.lua"))()
